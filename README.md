@@ -71,3 +71,27 @@ uvicorn
 sqlalchemy
 pydantic # For future use - WhatsApp Cloud API / OpenAI keys
 API_KEY=your_api_key_here
+# 🎓 Puch AI Hackathon – Student Assistant
+
+An AI-powered Student Assistant built with **Python (FastAPI)** for the **Puch AI Hackathon**.  
+It helps students with queries, learning support, and productivity tools — all in one place.
+
+---
+
+## 🚀 Features
+- 📚 **Study Assistance** – Ask questions and get instant answers.
+- 📝 **Notes & Reminders** – Save important topics and deadlines.
+- 🔍 **Search Tool** – Quick access to educational resources.
+- 🌐 **Future Ready** – Easily connect to WhatsApp Cloud API.
+
+---
+
+## 🛠️ Tech Stack
+- **Backend:** Python + FastAPI
+- **Database:** SQLite (Local)
+- **Future API Integration:** WhatsApp Cloud API
+- **Deployment:** Heroku / Render / Railway
+
+---
+
+## 📂 Project Structure
